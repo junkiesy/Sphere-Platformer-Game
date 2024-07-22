@@ -1,0 +1,2 @@
+PlayerAI is currently selected as a component for PLayer under Inspector tab which moves the sphere and reaches the end.
+Below PlayerAI is PlayerMovement (currently unchecked) when checked, it helps to move the sphere with WASD keys and spacebar
